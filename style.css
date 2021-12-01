@@ -1,0 +1,10 @@
+#login-contaianer{
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: url('assets/img/laptop-desk-bg.jpg') center center;
+	background-size: cover;
+}
+
